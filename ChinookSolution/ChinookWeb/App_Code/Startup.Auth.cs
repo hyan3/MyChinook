@@ -4,7 +4,7 @@ using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
 
-namespace ChinookWed
+namespace ChinookWeb
 {
     public partial class Startup {
 

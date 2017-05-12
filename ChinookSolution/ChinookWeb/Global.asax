@@ -1,5 +1,5 @@
 ﻿<%@ Application Language="C#" %>
-<%@ Import Namespace="ChinookWed" %>
+<%@ Import Namespace="ChinookWeb" %>
 <%@ Import Namespace="System.Web.Optimization" %>
 <%@ Import Namespace="System.Web.Routing" %>
 

@@ -2,7 +2,7 @@
 using System;
 using System.Linq;
 using System.Web.UI;
-using ChinookWed;
+using ChinookWeb;
 
 public partial class Account_Register : Page
 {
